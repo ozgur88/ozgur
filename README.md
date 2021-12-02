@@ -1,0 +1,2 @@
+# ozgur
+Madencilik 
