@@ -1,2 +1,1 @@
-# ozgur
-Madencilik 
+ozgurmadenci
